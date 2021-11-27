@@ -52,7 +52,7 @@
 
 ---
 
-[ARRAHAT777's GitHub stats](https://github-readme-stats.vercel.app/api?username=AR-Rahat&count_private=true&show_icons=true&theme=tokyonight)
+[![ARRAHAT777's GitHub stats](https://github-readme-stats.vercel.app/api?username=AR-Rahat&count_private=true&show_icons=true&theme=tokyonight)][linkedin]
 
 [website]: https://arrahat777gaming.000webhostapp.com
 [twitter]: https://twitter.com/arrahat777
