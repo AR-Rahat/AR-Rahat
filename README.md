@@ -1,6 +1,6 @@
 ### Hi there, I'm Md Asfakur Rahat - aka [ARRAHAT777][website] 👋 
 
-[![Website](https://img.shields.io/website?label=arrahat777gaming.com&style=for-the-badge&url=https%3A%2F%2Farrahat777gaming.000webhostapp.com/)](https://arrahat777gaming.000webhostapp.com/)
+[![Website](https://img.shields.io/website?label=arrahat777gaming.com&style=for-the-badge&url=https%3A%2F%2Farrahat777gaming.000webhostapp.com/)](https://ar-rahat.github.io/arrahat777gaming/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/arrahat777?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Farrahat777&screen_name=arrahat777)
 
 ## I'm a Student, Problem solver, Developer, and Learner!!
