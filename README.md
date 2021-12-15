@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [My official website showcase &lpar;No sound&rpar;](https://www.youtube.com/watch?v=-HNXwTptMYA)
+- [Accidental Mona Showcase](https://www.youtube.com/watch?v=aqcmhLzyPlY)
 - [How Hard can a lvl-80 F2P mona hit ?????????????????? &lpar;Q level 5&rpar;](https://www.youtube.com/watch?v=Zvz8DXJxNZ8)
 - [Hu Tao&#39;s Birthday But in late 😑](https://www.youtube.com/watch?v=fhO4yYRZOTQ)
 - [Electro Archon Raiden&#39;s First official appearance.&lpar;jp voiceover&rpar; #GenshinImpact #Raiden #Baal !!!](https://www.youtube.com/watch?v=dUd4fvTjwRQ)
-- [What Happened when you perfectly Execute Eula&#39;s Burst in Open World !!!!! #F2P_EULA](https://www.youtube.com/watch?v=3JVraX7A80g)
-- [SereniteaPot Tour of Cool isle and Floating adobe with 21.5k energy With no Extra energy farming](https://www.youtube.com/watch?v=1Y2LCJiXgLo)
 <!-- YOUTUBE:END -->
 
 ---
