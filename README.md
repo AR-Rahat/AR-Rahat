@@ -44,10 +44,10 @@
 
 <!-- YOUTUBE:START -->
 - [Shenhe F2P Gacha Speedrun &amp; 3 crown on the day of her release.](https://www.youtube.com/watch?v=Gw0Bb9kH7qk)
-- [My official website showcase &lpar;No sound&rpar;](https://www.youtube.com/watch?v=-HNXwTptMYA)
 - [Accidental Mona Showcase](https://www.youtube.com/watch?v=aqcmhLzyPlY)
 - [How Hard can a lvl-80 F2P mona hit ?????????????????? &lpar;Q level 5&rpar;](https://www.youtube.com/watch?v=Zvz8DXJxNZ8)
 - [Hu Tao&#39;s Birthday But in late 😑](https://www.youtube.com/watch?v=fhO4yYRZOTQ)
+- [Electro Archon Raiden&#39;s First official appearance.&lpar;jp voiceover&rpar; #GenshinImpact #Raiden #Baal !!!](https://www.youtube.com/watch?v=dUd4fvTjwRQ)
 <!-- YOUTUBE:END -->
 
 ---
