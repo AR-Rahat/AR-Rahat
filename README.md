@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Self-Introduction_Week_1&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=TnY3-Qgy1iQ)
 - [Self-introduction_week_0&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=gCoxuNnllxg)
 - [3.1 Spiral Abyss Floor 12 speedrun #F2P #Speedrun #genshinimpact](https://www.youtube.com/watch?v=SKeVqxlYHjI)
 - [Triple Crown Ayaka Damage comparison With Full buff](https://www.youtube.com/watch?v=2SKxhR1g_hU)
 - [Winelifest Festival&#39;s Last Cutscene || Genshin Impact || Razor || Klee || Venti || Bennett](https://www.youtube.com/watch?v=6frv0aFHfPY)
-- [Shenhe F2P Gacha Speedrun &amp; 3 crown on the day of her release.](https://www.youtube.com/watch?v=Gw0Bb9kH7qk)
 <!-- YOUTUBE:END -->
 
 ---
