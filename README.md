@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Self-Introduction_Week_4&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=nct2bpqHDtw)
 - [Self-Introduction_week_3&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=3H3LoJshUvw)
 - [Self-introduction_week_2&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=dqOoU20tnYE)
 - [Self-Introduction_Week_1&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=TnY3-Qgy1iQ)
 - [Self-introduction_week_0&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=gCoxuNnllxg)
-- [3.1 Spiral Abyss Floor 12 speedrun #F2P #Speedrun #genshinimpact](https://www.youtube.com/watch?v=SKeVqxlYHjI)
 <!-- YOUTUBE:END -->
 
 ---
