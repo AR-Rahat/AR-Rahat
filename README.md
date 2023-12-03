@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [BD_Introduction_Ver.1&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=NHCbxlCt6VM)
 - [自己紹介ビデオ（１１＿ラハト）](https://www.youtube.com/watch?v=jZz1nhMCkZA)
 - [Self-Introduction_Week_4&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=nct2bpqHDtw)
 - [Self-Introduction_week_3&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=3H3LoJshUvw)
 - [Self-introduction_week_2&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=dqOoU20tnYE)
-- [Self-Introduction_Week_1&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=TnY3-Qgy1iQ)
 <!-- YOUTUBE:END -->
 
 ---
