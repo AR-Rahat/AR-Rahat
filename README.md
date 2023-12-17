@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Introduction to Bangladesh [Food]&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=v4aaFq9IncA)
 - [Introduction to Bangladesh [Seasons]&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=ESY6iJ190vo)
 - [BD_Introduction_Ver.1&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=NHCbxlCt6VM)
 - [自己紹介ビデオ（１１＿ラハト）](https://www.youtube.com/watch?v=jZz1nhMCkZA)
 - [Self-Introduction_Week_4&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=nct2bpqHDtw)
-- [Self-Introduction_week_3&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=3H3LoJshUvw)
 <!-- YOUTUBE:END -->
 
 ---
