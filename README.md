@@ -43,7 +43,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Introduction to Bangladesh [Food_Final_version]&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=dUyco0YUNs4)
+- [バングラデシュのビリヤニ（11＿ラハト）](https://www.youtube.com/watch?v=dUyco0YUNs4)
 - [Best Projects Showcase &lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=1udYFtTGypk)
 - [Introduction to Bangladesh [Food]&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=v4aaFq9IncA)
 - [Introduction to Bangladesh [Seasons]&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=ESY6iJ190vo)
