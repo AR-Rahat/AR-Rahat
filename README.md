@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Technical Presentation &lpar;11_Rahat/ラハト&rpar;](https://www.youtube.com/watch?v=8lOY8dO4E70)
 - [好きな俳優 / Favourite Actor &lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=GikU4JW7b5g)
 - [バングラデシュのビリヤニ（11＿ラハト）](https://www.youtube.com/watch?v=dUyco0YUNs4)
 - [Best Projects Showcase &lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=1udYFtTGypk)
 - [Introduction to Bangladesh [Food]&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=v4aaFq9IncA)
-- [Introduction to Bangladesh [Seasons]&lpar;11_Rahat&rpar;](https://www.youtube.com/watch?v=ESY6iJ190vo)
 <!-- YOUTUBE:END -->
 
 ---
